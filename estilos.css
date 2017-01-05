@@ -1,0 +1,10 @@
+body {
+	color: #333;
+	font-family: "Noto Serif", serif;
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 1.6471;
+	margin: 20px 40px;
+	max-width: 660px;
+	vertical-align: baseline;
+}
